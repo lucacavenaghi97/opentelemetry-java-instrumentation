@@ -2795,8 +2795,6 @@ libraries:
           type: STRING
         - name: db.query.text
           type: STRING
-        - name: db.response.status_code
-          type: STRING
         - name: db.system.name
           type: STRING
         - name: error.type
@@ -2864,8 +2862,6 @@ libraries:
         - name: db.query.summary
           type: STRING
         - name: db.query.text
-          type: STRING
-        - name: db.response.status_code
           type: STRING
         - name: db.system.name
           type: STRING
@@ -13469,8 +13465,6 @@ libraries:
           type: STRING
         - name: db.query.text
           type: STRING
-        - name: db.response.status_code
-          type: STRING
         - name: error.type
           type: STRING
         - name: server.address
@@ -13530,8 +13524,6 @@ libraries:
         - name: db.query.summary
           type: STRING
         - name: db.query.text
-          type: STRING
-        - name: db.response.status_code
           type: STRING
         - name: error.type
           type: STRING
